@@ -2,4 +2,4 @@
 
 1.kylin构建cube
 2.MySQL数据迁移到mongodb，用hbase记录偏移量
-3.
+3.f
